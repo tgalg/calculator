@@ -2,6 +2,8 @@
 
 This is a simple calculator application, built with React and TypeScript for a take-home code challenge. It supports the four basic arithmetic operations: addition, subtraction, multiplication, and division - as well as negation and percentage calculations.
 
+### Check out the [live deployed version](https://64c6b7e8eececd2e917cdafe--eloquent-vacherin-0aa064.netlify.app/)
+
 ## Project Structure
 
 - `src/Calculator.tsx`: This is the main Calculator component. It handles the UI and user interactions.
@@ -38,7 +40,9 @@ The calculator was designed to be simple and user-friendly, with a focus on clea
 
 The calculator handles edge cases like division by zero, and ensures only one decimal point can be added.
 
-## Future Improvements
+## Bugs & Future Improvements
+
+There are some UX bugs like an infinitely long display when the user enters a long string of digits. Also the result of a calculation can be appended to, which is not ideal.
 
 In future iterations of the calculator, we might consider adding more complex functionality, such as support for parentheses, exponentiation, and trigonometric functions. Additionally, we could improve the UI with more animations and a responsive design.
 
