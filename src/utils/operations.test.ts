@@ -1,4 +1,4 @@
-import { add, subtract, multiply, divide, performOperation } from './Calculator'
+import performOperation, { add, subtract, multiply, divide } from './operations'
 
 describe('Calculator Operations', () => {
   it('performs addition', () => {
