@@ -7,7 +7,7 @@
     "serve": "vite preview --port 3000",
     "lint": "eslint . --ext .ts,.tsx,.js",
     "prepare": "husky install",
-    "test": "jest --watch"
+    "test": "jest"
   },
   "dependencies": {
     "react": "^18.2.0",
