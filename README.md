@@ -1,4 +1,4 @@
-# React Calculator
+# 🧮 React Calculator
 
 This is a simple calculator application, built with React and TypeScript for a take-home code challenge to be completed in a 2 hour timeframe. It supports the four basic arithmetic operations: addition, subtraction, multiplication, and division - as well as negation and percentage calculations.
 
