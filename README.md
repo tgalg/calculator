@@ -46,6 +46,8 @@ There are some UX bugs like an infinitely long display when the user enters a lo
 
 In future iterations of the calculator, we might consider adding more complex functionality, such as support for parentheses, exponentiation, and trigonometric functions. Additionally, we could improve the UI with more animations and a responsive design.
 
+The code could also be split out to multiple files for the hooks/reducer, and the calculator component itself. I kept it all in one file here for simplicity.
+
 ## Author
 
 Tom Gallagher, 2023
