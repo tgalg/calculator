@@ -43,7 +43,7 @@ The calculator handles edge cases like division by zero, and ensures only one de
 
 ## Bugs & Future Improvements
 
-There are some UX bugs like an infinitely long display when the user enters a long string of digits. Also the result of a calculation can be appended to, which is not ideal.
++,-,*,\ buttons could have icons that match the design better. There are some UX bugs like an infinitely long display when the user enters a long string of digits. Also the result of a calculation can be appended to, which is not ideal.
 
 In future iterations of the calculator, we might consider adding more complex functionality, such as support for parentheses, exponentiation, and trigonometric functions. Additionally, we could improve the UI with more animations and a responsive design.
 
